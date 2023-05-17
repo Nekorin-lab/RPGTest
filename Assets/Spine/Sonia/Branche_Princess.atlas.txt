@@ -1,0 +1,405 @@
+
+Branche_Princess.png
+size: 1580,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Princess/Branche_Princess_2/fashi
+  rotate: true
+  xy: 140, 3
+  size: 40, 56
+  orig: 41, 60
+  offset: 0, 4
+  index: -1
+Princess/Branche_Princess_2/jianjaiout
+  rotate: true
+  xy: 1496, 113
+  size: 33, 27
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_2/jianjiainner
+  rotate: true
+  xy: 1438, 85
+  size: 25, 29
+  orig: 28, 29
+  offset: 3, 0
+  index: -1
+Princess/Branche_Princess_2/leginnerup
+  rotate: false
+  xy: 720, 4
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_2/legoutup
+  rotate: false
+  xy: 1496, 148
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_2/qunzi
+  rotate: true
+  xy: 1438, 112
+  size: 91, 56
+  orig: 91, 56
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_3/dunpai
+  rotate: false
+  xy: 1492, 6
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_3/weapon
+  rotate: false
+  xy: 1190, 6
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/arminnerdown
+  rotate: true
+  xy: 1469, 86
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/arminnerup
+  rotate: false
+  xy: 339, 9
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/armoutdown
+  rotate: false
+  xy: 592, 14
+  size: 26, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/armoutup
+  rotate: false
+  xy: 373, 9
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/body
+  rotate: false
+  xy: 198, 3
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/dunpai
+  rotate: false
+  xy: 998, 68
+  size: 92, 135
+  orig: 92, 135
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/erhuan
+  rotate: true
+  xy: 574, 3
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/eyebrow
+  rotate: true
+  xy: 1037, 3
+  size: 63, 11
+  orig: 66, 11
+  offset: 2, 0
+  index: -1
+Princess/Branche_Princess_4/eyehard
+  rotate: true
+  xy: 1408, 3
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/eyehard1
+  rotate: true
+  xy: 1437, 4
+  size: 79, 27
+  orig: 80, 27
+  offset: 1, 0
+  index: -1
+Princess/Branche_Princess_4/eyehard2
+  rotate: true
+  xy: 1466, 4
+  size: 79, 24
+  orig: 80, 24
+  offset: 1, 0
+  index: -1
+Princess/Branche_Princess_4/eyehard3
+  rotate: false
+  xy: 503, 2
+  size: 69, 8
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/eyesffuer
+  rotate: false
+  xy: 527, 14
+  size: 63, 34
+  orig: 67, 34
+  offset: 2, 0
+  index: -1
+Princess/Branche_Princess_4/eyeyun
+  rotate: true
+  xy: 1003, 3
+  size: 63, 32
+  orig: 67, 32
+  offset: 2, 0
+  index: -1
+Princess/Branche_Princess_4/face
+  rotate: false
+  xy: 871, 66
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/fashi
+  rotate: true
+  xy: 895, 3
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair1
+  rotate: false
+  xy: 1050, 8
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair2
+  rotate: false
+  xy: 431, 10
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair3
+  rotate: false
+  xy: 1124, 3
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair4
+  rotate: true
+  xy: 1312, 2
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair5
+  rotate: true
+  xy: 253, 9
+  size: 38, 84
+  orig: 42, 84
+  offset: 2, 0
+  index: -1
+Princess/Branche_Princess_4/hair6
+  rotate: false
+  xy: 454, 50
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair7
+  rotate: true
+  xy: 750, 5
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair8
+  rotate: false
+  xy: 1092, 74
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/hair9
+  rotate: false
+  xy: 977, 4
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/handinner
+  rotate: false
+  xy: 1555, 125
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/handout
+  rotate: false
+  xy: 1518, 88
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/handout1
+  rotate: false
+  xy: 1493, 87
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/handout2
+  rotate: false
+  xy: 1542, 90
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/jianjaiout
+  rotate: true
+  xy: 99, 2
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/jianjiainner
+  rotate: false
+  xy: 1525, 114
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/jianjiaout1
+  rotate: false
+  xy: 1564, 109
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/leginnerdowm
+  rotate: false
+  xy: 407, 9
+  size: 22, 38
+  orig: 23, 38
+  offset: 1, 0
+  index: -1
+Princess/Branche_Princess_4/leginnerup
+  rotate: false
+  xy: 866, 5
+  size: 27, 51
+  orig: 29, 51
+  offset: 1, 0
+  index: -1
+Princess/Branche_Princess_4/legoutdown
+  rotate: false
+  xy: 503, 12
+  size: 22, 36
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/legoutup
+  rotate: false
+  xy: 1526, 148
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/mouth01
+  rotate: false
+  xy: 274, 4
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/mouth02
+  rotate: false
+  xy: 431, 2
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/mouth03
+  rotate: false
+  xy: 592, 4
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/mouth04
+  rotate: false
+  xy: 253, 3
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/qunzi
+  rotate: false
+  xy: 620, 2
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/toushi
+  rotate: false
+  xy: 1159, 5
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Princess/Branche_Princess_4/tx1
+  rotate: true
+  xy: 540, 50
+  size: 153, 61
+  orig: 157, 69
+  offset: 1, 4
+  index: -1
+Princess/Branche_Princess_4/tx2
+  rotate: true
+  xy: 2, 6
+  size: 197, 95
+  orig: 213, 99
+  offset: 2, 2
+  index: -1
+Princess/Branche_Princess_4/tx3
+  rotate: false
+  xy: 1202, 85
+  size: 234, 118
+  orig: 249, 139
+  offset: 5, 14
+  index: -1
+Princess/Branche_Princess_4/tx4
+  rotate: false
+  xy: 603, 58
+  size: 266, 145
+  orig: 286, 172
+  offset: 9, 18
+  index: -1
+Princess/Branche_Princess_4/tx5
+  rotate: false
+  xy: 177, 49
+  size: 275, 154
+  orig: 311, 201
+  offset: 17, 11
+  index: -1
+Princess/Branche_Princess_4/weapon
+  rotate: true
+  xy: 99, 45
+  size: 158, 76
+  orig: 158, 76
+  offset: 0, 0
+  index: -1
+Princess/Shadow
+  rotate: true
+  xy: 1099, 2
+  size: 70, 23
+  orig: 74, 25
+  offset: 2, 1
+  index: -1
